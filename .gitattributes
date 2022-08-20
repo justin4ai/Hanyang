@@ -1,1 +1,2 @@
-hide=jupyter%20notebook
+<!--hide=jupyter%20notebook-->
+*.ipynb linguist-documentation
