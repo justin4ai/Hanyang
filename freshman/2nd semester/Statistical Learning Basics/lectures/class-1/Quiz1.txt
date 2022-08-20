@@ -1,0 +1,37 @@
+1.	Predicting election outcome from surveys were wrong. That is proof that statistics / statistical learning is useless.
+
+	False
+2.	There's always one best model for a given data set. The trick is to find it.
+
+	False
+3.	If you have a lot of variables, just use stepwise regression.
+
+	False
+4.	Linear regression is only about linear relationship between a predictor and a target.
+
+	True
+5.	A statistician would place his head in an oven and his feet in ice, and say that on average he feels fine.
+
+	True
+6.	The independent variables in regression have to be normally distributed.
+
+	True
+7.	Machine learning can only discover correlations, not causal relationships
+
+	True	
+8.	Machine learning cannot predict previously unseen events
+
+	False
+9.	Logistic regression analysis is a classifier.
+
+	False
+10.	Machine learning techniques make no assumptions about your data.
+
+	False
+11.	A fair coin is tossed six times and the results are recorded in the order they appear. At each toss, the coin lands either H (=heads) or T (=tails). The outcome H T H T T H
+a)	is less likely than
+b)	is as likely as
+c)	is more likely
+than the outcome H H H H H H
+
+	C

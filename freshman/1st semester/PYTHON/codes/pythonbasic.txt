@@ -1,0 +1,10 @@
+Pop quiz 1
+print("Hello World!!!")
+
+Pop quiz 2
+print(type(6/2))
+print(type(6//2))
+
+Pop quiz 3
+Total_Time_Representing = "Hour: {}, Min: {}".format(int(1300//60),int(1300%60))
+print(Total_Time_Representing)
