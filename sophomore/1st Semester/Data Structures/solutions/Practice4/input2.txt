@@ -1,0 +1,7 @@
+P abcdefedcba
+P HilioilihilioiliH
+P abcdedcb
+B ({})[[{([])}]][()(){}{{}}]
+B (asd{}daf)[s[{([abc])sdf}]fafs][(fas)()d{io;j}{l{}}]
+B (asd{}daf)[s[{([abc)sdf}]fafs][(fas)()d{io;j}{l{}}]
+B (asd{}daf)[s[{([abc])sdf}]fafs][(fas)()d{{io;j}{l{}}]
